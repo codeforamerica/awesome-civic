@@ -27,6 +27,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 - [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+- [pup](https://github.com/ericchiang/pup) - A command-line tool from processhing HTML using CSS selectors.
 - [Miller](https://github.com/johnkerl/miller) - Command line tool that is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
 - [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
