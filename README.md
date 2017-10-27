@@ -1,6 +1,6 @@
 # Awesome Civic Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A list of resources for awesome civic software tools, libraries, and applications.
+> A list of open-source resources for awesome civic software tools, libraries, and applications.
 
 Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
@@ -19,13 +19,15 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Data
 
-- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+
 
 ## Tools
 
-*Awesome tools to help get your civic duty on*
+*Awesome open-source tools to help get your civic duty on*
 
-- [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
+### Data
+
+**Data scraping, wrangling, cleaning**
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 - [Miller](https://github.com/johnkerl/miller) - Command line tool that is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
@@ -37,7 +39,13 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
 - [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it. There is a [great tutorial](http://rpubs.com/johndharrison/12843).
-- [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3.
+
+**Data sources**
+
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Enigma.io](http://enigma.io)
+- [The Quartz Directory of Essential Data](https://docs.google.com/spreadsheets/d/1hU7Snj4KZ-ppyy388l-sV4I26n4yGVb8xYnygPOS-5k/edit#gid=1436509184)
+- [data.world](http://data.world) - Gaining traction as "the GitHub for data," data.world has loads of interesting datasets.
 
 ### Mapping
 
@@ -59,6 +67,10 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 - [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
 - [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
+- [DKAN](https://github.com/GetDKAN/dkan) - DKAN is a Drupal-distribution that sets up an open data portal on top of D7.
+- [JKAN](https://github.com/timwis/jkan) - A Jekyll-built static open data portal.
+- [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
+- [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3.
 
 ## Resources
 
@@ -77,7 +89,11 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Who to follow
 
-Civic hackers doing interesting things on GitHub.
+- [Derek Eder](https://github.com/derekeder)
+- [Jessica Lord](https://github.com/jlord)
+- [Tim Wisniewski](https://github.com/timwis)
+- [Chris Alfano](https://github.com/themightychris)
+- [Christopher Whitaker](https://github.com/GovInTrenches)
 
 ## Icons
 
