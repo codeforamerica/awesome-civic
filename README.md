@@ -38,6 +38,11 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
 - [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it. There is a [great tutorial](http://rpubs.com/johndharrison/12843).
 - [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3.
+- [VizWit](https://github.com/timwis/vizwit) - An interactive data visualization tool. VizWit uses a [JSON config file](https://gist.github.com/601224472a5d53cbb908) to generate 
+interactive charts that cross-filter one another. It currently supports data hosted in [Socrata](https://socrata.com) and 
+[Carto](http://carto.com), which includes open data provided by cities such as [Philadelphia](http://opendataphilly.org),
+[Chicago](https://data.cityofchicago.org/), and [San Francisco](https://data.sfgov.org/)). Data that’s hosted elsewhere can be
+supported by [adding a new data provider](https://github.com/timwis/vizwit/wiki/Adding-a-provider).
 
 ### Mapping
 
