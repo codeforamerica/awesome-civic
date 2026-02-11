@@ -60,6 +60,8 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
 - [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
 
+- [Absurdity Index](https://absurdityindex.org/) - Scores real U.S. federal legislation on a 1-10 absurdity scale and publishes satirical common-sense alternative bills. Public JSON API.
+
 ## Resources
 
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
