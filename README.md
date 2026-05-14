@@ -59,6 +59,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 - [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
 - [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
+- [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 
 ## Resources
 
