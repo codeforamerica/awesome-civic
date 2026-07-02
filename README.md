@@ -59,6 +59,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 - [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
 - [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
+- [RentRights](https://rentrights.writingdeveloper.blog) - Free, open-source, bilingual (English/Spanish) tool that estimates a Los Angeles renter's rent-law protections, their legal rent-increase cap, and whether a specific increase is legal, from their address.
 
 ## Resources
 
