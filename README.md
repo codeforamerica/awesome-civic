@@ -20,6 +20,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 ## Data
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Approps](https://approps.ai/) - Every U.S. federal earmark searchable by state, member, and bill, plus live status of all 12 appropriations bills.
 
 ## Tools
 
