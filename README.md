@@ -68,6 +68,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [Sporkability](https://github.com/open-austin/sporkability) - Best practices for making projects easy to fork.
 - [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy's open data assessment and playbook.
 - [Open Procure](http://openprocure.us/) - Open source list of Public Agencies Procurement Thresholds.
+- [Where's My Water AZ](https://wheresmywater.org) - Free tool to find water haulers, check water provider safety violations, and see regulatory water-supply data for any Arizona address.
 
 ## Design
 
