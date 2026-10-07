@@ -19,6 +19,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Data
 
+- [AICD API](https://aicdapi.com/?utm_source=awesome_civic&utm_medium=directory&utm_campaign=free_listings) - Structured Texas civic data API for DFW meetings, agenda items, and documents with source links.
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Tools
