@@ -57,6 +57,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Applications
 
+- [ImpactLine](https://www.impactline.org) - Free reader for selected US public budgets, with government-source links and fiscal-period labels.
 - [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
 - [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
 
